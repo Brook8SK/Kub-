@@ -1,7 +1,7 @@
 url = 'https://api.hh.ru/vacancies'
 params = {
     'text': 'Python',    
-    'area': 113,          
+    'area': 48,          
     'per_page': 10         
 }
 
